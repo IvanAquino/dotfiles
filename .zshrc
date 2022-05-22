@@ -71,12 +71,15 @@ source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 export PATH=~/Codigoaxaca/tools/nvim/bin:$PATH
 
 # Manual aliases
-alias ll='lsd -lh --group-dirs=first'
+alias ll='lsd -lah --group-dirs=first'
 alias la='lsd -a --group-dirs=first'
 alias l='lsd --group-dirs=first'
 alias lla='lsd -lha --group-dirs=first'
 alias ls='lsd --group-dirs=first'
 alias cat='bat'
 alias ~="cd ~"
+alias ..="cd ../"
+alias ...="cd ../../"
+alias ....="cd ../../../"
 
 eval "$(oh-my-posh init zsh --config ~/.poshthemes/aliens.omp.json)"

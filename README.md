@@ -14,4 +14,5 @@ Follow installation and install themes in __~/.poshthemes__
 #### Link
 ```sh
 ln -s $(pwd)/.zshrc ~/
+ln -s $(pwd)/kitty ~/.config/
 ```
