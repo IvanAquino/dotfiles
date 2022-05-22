@@ -73,6 +73,7 @@ source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 # PATHS
 export PATH=~/Codigoaxaca/tools/nvim/bin:$PATH
+export PATH=~/.npm-global/bin:$PATH
 
 # Manual aliases
 alias ll='lsd -lah --group-dirs=first'
