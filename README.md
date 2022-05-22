@@ -8,7 +8,9 @@ yay -S nerd-fonts-jetbrains-mono ttf-font-awesome ttf-font-awesome-4 ttf-materia
 ```
 
 [https://www.dropbox.com/s/hrkub2yo9iapljz/icomoon.zip?dl=0](icomoon)
+
 [https://www.nerdfonts.com/font-downloads](Nerd Fonts) - Hack Nerd Fonts
+
 [https://github.com/microsoft/cascadia-code/releases](Cascadia Code PL)
 
 #### ZSH plugins
@@ -18,6 +20,7 @@ yay -S sh-syntax-highlighting zsh-autosuggestions
 
 #### Oh-my-posh
 Follow installation and install themes in __~/.poshthemes__
+
 [https://ohmyposh.dev/](oh-my-posh)
 
 #### Link
