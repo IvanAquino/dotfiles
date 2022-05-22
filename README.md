@@ -2,6 +2,14 @@
 
 ## Installation
 
+#### Fonts
+```sh
+yay -S nerd-fonts-jetbrains-mono ttf-font-awesome ttf-font-awesome-4 ttf-material-design-icons
+```
+
+[https://www.dropbox.com/s/hrkub2yo9iapljz/icomoon.zip?dl=0](icomoon)
+[https://www.nerdfonts.com/font-downloads](Nerd Fonts) - Hack Nerd Fonts
+
 #### ZSH plugins
 ```sh
 yay -S sh-syntax-highlighting zsh-autosuggestions
