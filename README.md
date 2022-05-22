@@ -24,8 +24,10 @@ Follow installation and install themes in __~/.poshthemes__
 [Oh-my-posh](https://ohmyposh.dev/)
 
 #### Node EACCES
+```sh
 mkdir ~/.npm-global
 npm config set prefix '~/.npm-global'
+```
 
 #### Symbolic Link
 ```sh
