@@ -63,6 +63,10 @@ function fzf-lovely(){
 	fi
 }
 
+# Keymaps
+bindkey '^[[A' up-line-or-search
+bindkey '^[[B' down-line-or-search
+
 # Plugins
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
