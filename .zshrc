@@ -86,5 +86,6 @@ alias ~="cd ~"
 alias ..="cd ../"
 alias ...="cd ../../"
 alias ....="cd ../../../"
+alias sail='[ -f sail ] && bash sail || bash vendor/bin/sail'
 
 eval "$(oh-my-posh init zsh --config ~/.poshthemes/aliens.omp.json)"
